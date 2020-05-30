@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ResumeWebsite/static/css/main.9d4ed368.chunk.css",
+    "main.js": "/ResumeWebsite/static/js/main.4a1e76fd.chunk.js",
+    "main.js.map": "/ResumeWebsite/static/js/main.4a1e76fd.chunk.js.map",
+    "runtime-main.js": "/ResumeWebsite/static/js/runtime-main.3c16265d.js",
+    "runtime-main.js.map": "/ResumeWebsite/static/js/runtime-main.3c16265d.js.map",
+    "static/css/2.ace36aee.chunk.css": "/ResumeWebsite/static/css/2.ace36aee.chunk.css",
+    "static/js/2.b3913f88.chunk.js": "/ResumeWebsite/static/js/2.b3913f88.chunk.js",
+    "static/js/2.b3913f88.chunk.js.map": "/ResumeWebsite/static/js/2.b3913f88.chunk.js.map",
+    "index.html": "/ResumeWebsite/index.html",
+    "precache-manifest.8ea0ae370b46fec316732dceb1a49047.js": "/ResumeWebsite/precache-manifest.8ea0ae370b46fec316732dceb1a49047.js",
+    "service-worker.js": "/ResumeWebsite/service-worker.js",
+    "static/css/2.ace36aee.chunk.css.map": "/ResumeWebsite/static/css/2.ace36aee.chunk.css.map",
+    "static/css/main.9d4ed368.chunk.css.map": "/ResumeWebsite/static/css/main.9d4ed368.chunk.css.map",
+    "static/js/2.b3913f88.chunk.js.LICENSE.txt": "/ResumeWebsite/static/js/2.b3913f88.chunk.js.LICENSE.txt",
+    "static/media/Bootstrap_logo.svg": "/ResumeWebsite/static/media/Bootstrap_logo.64aaeb16.svg",
+    "static/media/LSU.svg": "/ResumeWebsite/static/media/LSU.8a25346f.svg",
+    "static/media/React-icon.svg": "/ResumeWebsite/static/media/React-icon.638be909.svg",
+    "static/media/csharp.svg": "/ResumeWebsite/static/media/csharp.c6961b79.svg",
+    "static/media/css.svg": "/ResumeWebsite/static/media/css.a7c7f479.svg",
+    "static/media/filtered.jpg": "/ResumeWebsite/static/media/filtered.c215f432.jpg",
+    "static/media/green-leaves.jpg": "/ResumeWebsite/static/media/green-leaves.bc3e9619.jpg",
+    "static/media/headshot.jpg": "/ResumeWebsite/static/media/headshot.32cd7df4.jpg",
+    "static/media/html.svg": "/ResumeWebsite/static/media/html.a91ec9c4.svg",
+    "static/media/java.svg": "/ResumeWebsite/static/media/java.a602fe1f.svg",
+    "static/media/javascript.png": "/ResumeWebsite/static/media/javascript.79046a55.png",
+    "static/media/javascript_logo.jpg": "/ResumeWebsite/static/media/javascript_logo.ea4ed400.jpg",
+    "static/media/logo.svg": "/ResumeWebsite/static/media/logo.5d5d9eef.svg",
+    "static/media/python.svg": "/ResumeWebsite/static/media/python.7eb80c46.svg",
+    "static/media/react.png": "/ResumeWebsite/static/media/react.254e2aad.png",
+    "static/media/scenic-mount.jpg": "/ResumeWebsite/static/media/scenic-mount.4f577019.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c16265d.js",
+    "static/css/2.ace36aee.chunk.css",
+    "static/js/2.b3913f88.chunk.js",
+    "static/css/main.9d4ed368.chunk.css",
+    "static/js/main.4a1e76fd.chunk.js"
+  ]
+}
