@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c60c9bd769cfdc9b9dcccfe263f2812",
+    "revision": "e66e38054b2cafe3a01d93ee3ca41b71",
     "url": "/ResumeWebsite/index.html"
   },
   {
-    "revision": "a03257b80a7891430199",
+    "revision": "f3b05352000cd6c8405f",
     "url": "/ResumeWebsite/static/css/2.ace36aee.chunk.css"
   },
   {
-    "revision": "d4fc1b5ea85b09d831c2",
-    "url": "/ResumeWebsite/static/css/main.c927357b.chunk.css"
+    "revision": "c9ce73fd5899c6357cc2",
+    "url": "/ResumeWebsite/static/css/main.8ab95c1e.chunk.css"
   },
   {
-    "revision": "a03257b80a7891430199",
-    "url": "/ResumeWebsite/static/js/2.8aa89729.chunk.js"
+    "revision": "f3b05352000cd6c8405f",
+    "url": "/ResumeWebsite/static/js/2.c5a1bc25.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/ResumeWebsite/static/js/2.8aa89729.chunk.js.LICENSE.txt"
+    "url": "/ResumeWebsite/static/js/2.c5a1bc25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4fc1b5ea85b09d831c2",
-    "url": "/ResumeWebsite/static/js/main.3c5916fb.chunk.js"
+    "revision": "c9ce73fd5899c6357cc2",
+    "url": "/ResumeWebsite/static/js/main.1d336aaa.chunk.js"
   },
   {
     "revision": "c90a35cc7ff89e307fb7",
@@ -32,12 +32,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ResumeWebsite/static/media/Bootstrap_logo.64aaeb16.svg"
   },
   {
+    "revision": "b108e6cdfed0920b59d776381e1e0e88",
+    "url": "/ResumeWebsite/static/media/LOUIS.b108e6cd.jpg"
+  },
+  {
+    "revision": "8f97d0245dd77273309664f9d9f46911",
+    "url": "/ResumeWebsite/static/media/LOUIS_logo.8f97d024.png"
+  },
+  {
     "revision": "8a25346f15fdb8c5bc73a7675e0c9c77",
     "url": "/ResumeWebsite/static/media/LSU.8a25346f.svg"
   },
   {
+    "revision": "880b2eae1eafaa073b02f0a756a81b14",
+    "url": "/ResumeWebsite/static/media/LSUITS.880b2eae.gif"
+  },
+  {
     "revision": "638be90904f9f9248d3c69cb2992c562",
     "url": "/ResumeWebsite/static/media/React-icon.638be909.svg"
+  },
+  {
+    "revision": "c406174f9a5c4e4fcd61c3494908074c",
+    "url": "/ResumeWebsite/static/media/bh_logo.c406174f.png"
   },
   {
     "revision": "c6961b79062b431cb39106d60635832d",
