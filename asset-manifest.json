@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/ResumeWebsite/static/css/main.834c950e.chunk.css",
-    "main.js": "/ResumeWebsite/static/js/main.27d646c6.chunk.js",
-    "main.js.map": "/ResumeWebsite/static/js/main.27d646c6.chunk.js.map",
+    "main.css": "/ResumeWebsite/static/css/main.2c8c2f72.chunk.css",
+    "main.js": "/ResumeWebsite/static/js/main.b1908c1a.chunk.js",
+    "main.js.map": "/ResumeWebsite/static/js/main.b1908c1a.chunk.js.map",
     "runtime-main.js": "/ResumeWebsite/static/js/runtime-main.3c16265d.js",
     "runtime-main.js.map": "/ResumeWebsite/static/js/runtime-main.3c16265d.js.map",
     "static/css/2.ace36aee.chunk.css": "/ResumeWebsite/static/css/2.ace36aee.chunk.css",
-    "static/js/2.ae11170e.chunk.js": "/ResumeWebsite/static/js/2.ae11170e.chunk.js",
-    "static/js/2.ae11170e.chunk.js.map": "/ResumeWebsite/static/js/2.ae11170e.chunk.js.map",
+    "static/js/2.a18b0084.chunk.js": "/ResumeWebsite/static/js/2.a18b0084.chunk.js",
+    "static/js/2.a18b0084.chunk.js.map": "/ResumeWebsite/static/js/2.a18b0084.chunk.js.map",
     "index.html": "/ResumeWebsite/index.html",
-    "precache-manifest.cd6aa4076ea0649f2ff002ebe44c9be9.js": "/ResumeWebsite/precache-manifest.cd6aa4076ea0649f2ff002ebe44c9be9.js",
+    "precache-manifest.ddd8306c4a6079b7c3e1f486957a36f6.js": "/ResumeWebsite/precache-manifest.ddd8306c4a6079b7c3e1f486957a36f6.js",
     "service-worker.js": "/ResumeWebsite/service-worker.js",
     "static/css/2.ace36aee.chunk.css.map": "/ResumeWebsite/static/css/2.ace36aee.chunk.css.map",
-    "static/css/main.834c950e.chunk.css.map": "/ResumeWebsite/static/css/main.834c950e.chunk.css.map",
-    "static/js/2.ae11170e.chunk.js.LICENSE.txt": "/ResumeWebsite/static/js/2.ae11170e.chunk.js.LICENSE.txt",
+    "static/css/main.2c8c2f72.chunk.css.map": "/ResumeWebsite/static/css/main.2c8c2f72.chunk.css.map",
+    "static/js/2.a18b0084.chunk.js.LICENSE.txt": "/ResumeWebsite/static/js/2.a18b0084.chunk.js.LICENSE.txt",
     "static/media/Bootstrap_logo.svg": "/ResumeWebsite/static/media/Bootstrap_logo.64aaeb16.svg",
+    "static/media/GitHub_Logo.png": "/ResumeWebsite/static/media/GitHub_Logo.cefc2023.png",
+    "static/media/LI-Logo.png": "/ResumeWebsite/static/media/LI-Logo.c24cde28.png",
     "static/media/LOUIS.jpg": "/ResumeWebsite/static/media/LOUIS.b108e6cd.jpg",
     "static/media/LOUIS_logo.png": "/ResumeWebsite/static/media/LOUIS_logo.8f97d024.png",
     "static/media/LSU.svg": "/ResumeWebsite/static/media/LSU.8a25346f.svg",
@@ -24,7 +26,8 @@
     "static/media/bh_logo.png": "/ResumeWebsite/static/media/bh_logo.c406174f.png",
     "static/media/csharp.svg": "/ResumeWebsite/static/media/csharp.c6961b79.svg",
     "static/media/css.svg": "/ResumeWebsite/static/media/css.a7c7f479.svg",
-    "static/media/filtered.jpg": "/ResumeWebsite/static/media/filtered.c215f432.jpg",
+    "static/media/Footer.scss": "/ResumeWebsite/static/media/filtered-2.2b6237e4.jpg",
+    "static/media/filtered.jpg": "/ResumeWebsite/static/media/filtered.b12d076f.jpg",
     "static/media/green-leaves.jpg": "/ResumeWebsite/static/media/green-leaves.bc3e9619.jpg",
     "static/media/headshot.jpg": "/ResumeWebsite/static/media/headshot.32cd7df4.jpg",
     "static/media/html.svg": "/ResumeWebsite/static/media/html.a91ec9c4.svg",
@@ -39,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.3c16265d.js",
     "static/css/2.ace36aee.chunk.css",
-    "static/js/2.ae11170e.chunk.js",
-    "static/css/main.834c950e.chunk.css",
-    "static/js/main.27d646c6.chunk.js"
+    "static/js/2.a18b0084.chunk.js",
+    "static/css/main.2c8c2f72.chunk.css",
+    "static/js/main.b1908c1a.chunk.js"
   ]
 }

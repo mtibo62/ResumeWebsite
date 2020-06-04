@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b4cd74956b463f096faba43d636d1cb",
+    "revision": "9abfbea1d46553a089c70f4037eb2237",
     "url": "/ResumeWebsite/index.html"
   },
   {
-    "revision": "7be08247858f884006dc",
+    "revision": "c857c963c476cd277df0",
     "url": "/ResumeWebsite/static/css/2.ace36aee.chunk.css"
   },
   {
-    "revision": "89be519671e196bb513c",
-    "url": "/ResumeWebsite/static/css/main.834c950e.chunk.css"
+    "revision": "845d47291799bf893b8a",
+    "url": "/ResumeWebsite/static/css/main.2c8c2f72.chunk.css"
   },
   {
-    "revision": "7be08247858f884006dc",
-    "url": "/ResumeWebsite/static/js/2.ae11170e.chunk.js"
+    "revision": "c857c963c476cd277df0",
+    "url": "/ResumeWebsite/static/js/2.a18b0084.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/ResumeWebsite/static/js/2.ae11170e.chunk.js.LICENSE.txt"
+    "url": "/ResumeWebsite/static/js/2.a18b0084.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89be519671e196bb513c",
-    "url": "/ResumeWebsite/static/js/main.27d646c6.chunk.js"
+    "revision": "845d47291799bf893b8a",
+    "url": "/ResumeWebsite/static/js/main.b1908c1a.chunk.js"
   },
   {
     "revision": "c90a35cc7ff89e307fb7",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "64aaeb1642cfcfb42a075db1fe9994da",
     "url": "/ResumeWebsite/static/media/Bootstrap_logo.64aaeb16.svg"
+  },
+  {
+    "revision": "cefc20232703e5e3c24efd5f50d75e26",
+    "url": "/ResumeWebsite/static/media/GitHub_Logo.cefc2023.png"
+  },
+  {
+    "revision": "c24cde2827448f08d40afd6909011e16",
+    "url": "/ResumeWebsite/static/media/LI-Logo.c24cde28.png"
   },
   {
     "revision": "b108e6cdfed0920b59d776381e1e0e88",
@@ -68,8 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ResumeWebsite/static/media/css.a7c7f479.svg"
   },
   {
-    "revision": "c215f432b8a33ff4d852beb52b2a1436",
-    "url": "/ResumeWebsite/static/media/filtered.c215f432.jpg"
+    "revision": "2b6237e45e4f90202a64caf72509bb7e",
+    "url": "/ResumeWebsite/static/media/filtered-2.2b6237e4.jpg"
+  },
+  {
+    "revision": "b12d076f23349c61ffce0e669cb848c3",
+    "url": "/ResumeWebsite/static/media/filtered.b12d076f.jpg"
   },
   {
     "revision": "bc3e9619b024972d991057ad7ddedf37",
